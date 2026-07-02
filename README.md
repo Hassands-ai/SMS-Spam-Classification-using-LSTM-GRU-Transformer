@@ -1,5 +1,3 @@
-# SMS-Spam-Classification-using-LSTM-GRU-Transformer
-Comparison of LSTM, GRU, and Transformer models for SMS Spam Classification using PyTorch with performance evaluation and comparative analysis.
 # SMS Spam Classification using LSTM, GRU, and Transformer
 
 This repository presents a comparative study of three deep learning architectures—LSTM, GRU, and Transformer—for SMS Spam Classification. The project was developed as part of the Generative AI Internship at the National Centre of Artificial Intelligence (NCAI), UET Lahore.
